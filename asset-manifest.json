@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ecommerce-website/static/css/main.e8867986.css",
+    "main.js": "/ecommerce-website/static/js/main.f7cb95ad.js",
+    "static/media/hero.webp": "/ecommerce-website/static/media/hero.b3f6a016d3fcb215cbfd.webp",
+    "static/media/fire.webp": "/ecommerce-website/static/media/fire.a8c6e4aced12bf0c0830.webp",
+    "static/media/hero2.jpg": "/ecommerce-website/static/media/hero2.3b8bd719bde0ea9e9da4.jpg",
+    "static/media/flgridto.webp": "/ecommerce-website/static/media/flgridto.44435e1720d11da08e77.webp",
+    "static/media/gridfr.webp": "/ecommerce-website/static/media/gridfr.35e78ce0eae072d33f28.webp",
+    "static/media/flgridne.webp": "/ecommerce-website/static/media/flgridne.8697d0e8728815920467.webp",
+    "static/media/gridthr.webp": "/ecommerce-website/static/media/gridthr.5b89b850206fb9a31686.webp",
+    "static/media/maker.webp": "/ecommerce-website/static/media/maker.cb01445b44415a600f64.webp",
+    "static/media/gridne.webp": "/ecommerce-website/static/media/gridne.1d810fe887ae749e99c0.webp",
+    "static/media/gridto.webp": "/ecommerce-website/static/media/gridto.110996a9eface49ad423.webp",
+    "static/media/gridfv.webp": "/ecommerce-website/static/media/gridfv.e9716f5479686ccefe33.webp",
+    "static/media/gridsvn.webp": "/ecommerce-website/static/media/gridsvn.d8e341222a2c25718ef6.webp",
+    "static/media/cardne.webp": "/ecommerce-website/static/media/cardne.86ed513731411562c56e.webp",
+    "static/media/gridsi.webp": "/ecommerce-website/static/media/gridsi.e7859e24b51f7239c656.webp",
+    "static/media/cardthr.webp": "/ecommerce-website/static/media/cardthr.aa07381909f012a5c5a3.webp",
+    "static/media/gridegt.webp": "/ecommerce-website/static/media/gridegt.167dce044e9ed80ad24f.webp",
+    "static/media/cardto.webp": "/ecommerce-website/static/media/cardto.a09f0cd98b61644617a0.webp",
+    "index.html": "/ecommerce-website/index.html",
+    "main.e8867986.css.map": "/ecommerce-website/static/css/main.e8867986.css.map",
+    "main.f7cb95ad.js.map": "/ecommerce-website/static/js/main.f7cb95ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8867986.css",
+    "static/js/main.f7cb95ad.js"
+  ]
+}
